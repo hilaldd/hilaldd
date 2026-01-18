@@ -1,6 +1,6 @@
-Hilal here :)
+hi! nice to see you here ;)
 
-Projects
+
 Projects I have worked on at the Rotterdam University of Applied Sciences.
 
 ## Projects
